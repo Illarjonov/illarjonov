@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+- JavaScript / TypeScript
+- ReactJS(hooks)
+- Redux Thunk / MobX
+- Ajax (fetch/axios)
+- WebSockets (SocketIO)
+- CSS / SaSS / MaterialUI / Styled-Components (pixel perfect, adaptive)
+- NextJS
+- git
+- Webpack
+- Небольшой опыт работы с CI/DC, Vue 3/VueX, JestJS, Docker, formik 
+и множество других чудесных либ
+
+Здравых pet-projects нет, к сожалению. 
+Не против выполнить небольшое тестовое. 
+
+Для моментального ответа лучше всего писать в телеграм @illarjonov
+
 <!--
 **Illarjonov/illarjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
