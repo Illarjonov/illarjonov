@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - JavaScript / TypeScript
-- ReactJS(hooks)
+- ReactJS(hooks) / React Native
 - Redux Thunk / MobX
 - Ajax (fetch/axios)
 - WebSockets (SocketIO)
