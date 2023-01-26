@@ -1,6 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=illarjonov)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=illarjonov)](https://git.io/streak-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illarjonov)](https://github.com/anuraghazra/github-readme-stats) 
+
 - JavaScript / TypeScript
 - ReactJS(hooks) / React Native
 - Redux / MobX
@@ -13,11 +12,10 @@
 - Небольшой опыт работы с CI/DC, Vue 3/VueX, JestJS, Docker, formik 
 и множество других чудесных либ
 
-Здравых pet-projects нет, к сожалению. 
-Не против выполнить небольшое тестовое. 
 
-Для моментального ответа лучше всего писать в телеграм @illarjonov
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=illarjonov)](https://git.io/streak-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illarjonov)](https://github.com/anuraghazra/github-readme-stats) 
 
+![](https://komarev.com/ghpvc/?username=illarjonov)
 <!--
 **Illarjonov/illarjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
