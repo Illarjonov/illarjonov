@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illarjonov)](https://github.com/anuraghazra/github-readme-stats)
 
 - JavaScript / TypeScript
 - ReactJS(hooks) / React Native
