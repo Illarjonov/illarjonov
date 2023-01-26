@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋 I'm frontend developer (React)
+
+- 📫 Stack: ✨ _special_ ✨ 
 
 - JavaScript / TypeScript
 - ReactJS(hooks) / React Native
