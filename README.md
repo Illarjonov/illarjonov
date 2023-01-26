@@ -17,8 +17,6 @@
 - Formik
 - Little experience with CI/DC, Vue 3/VueX/Pinia, Docker
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=illarjonov)](https://git.io/streak-stats)
-
 ### I'm open to communication
 ### Telegram in the description
 
