@@ -5,7 +5,7 @@
 - JavaScript / TypeScript
 - ReactJS(hooks)
 - React Native
-- Redux Thunk / MobX
+- Redux (Thunk) / MobX
 - Rest API (fetch/axios)
 - WebSockets (SocketIO)
 - sass / less / MaterialUI / Styled-Components (pixel perfect, adaptive)
