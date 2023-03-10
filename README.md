@@ -14,7 +14,7 @@
 - Webpack
 - Software Architect
 - Jest
-- Formik
+- Formik/ ReduxForm
 - Little experience with CI/DC, Vue 3/VueX/Pinia, Docker
 
 ### I'm open to communication
