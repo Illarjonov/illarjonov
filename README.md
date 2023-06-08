@@ -1,24 +1,20 @@
 ### Hey 👋 I'm frontend developer (React)
 
-### 📫 _Stack:_ 📫
+## 🛠️ _Stack:_ 🛠️
 
 - JavaScript / TypeScript
-- ReactJS(hooks)
-- React Native
+- ReactJS (hooks) / React Native
 - Redux (Thunk) / MobX
-- Rest API (fetch/axios)
+- Rest API (fetch/axios) / GrapgQL
 - WebSockets (SocketIO)
-- sass / less / MaterialUI / Styled-Components (pixel perfect, adaptive)
-- NextJS
+- NextJS / Webpack
 - Git Flow
-- Webpack
 - Software Architect
 - Jest
-- Formik/ ReduxForm
-- Little experience with CI/DC, Vue 3/VueX/Pinia, Docker
+- Formik / ReduxForm
+- Есть небольшой опыт работы с Vue 3 / VueX / Pinia
 
-### I'm open to communication
-### Telegram in the description
-
+## Я открыт для общения
+## Мой телеграм указан в профиле
 
 ![](https://komarev.com/ghpvc/?username=illarjonov)
