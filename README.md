@@ -4,15 +4,14 @@
 
 - JavaScript / TypeScript
 - ReactJS (hooks) / React Native
-- Redux (Thunk) / MobX
-- Rest API (fetch/axios) / GrapgQL
-- WebSockets (SocketIO)
-- NextJS / Webpack
+- Redux Toolkit / MobX
+- Rest API (fetch/axios) / GrapgQL / WebSockets (SocketIO)
+- NextJS (13/14)
+-  Webpack / Vite
 - Git Flow
 - Software Architect
-- Jest
+- Jest / Storybook
 - Formik / ReduxForm
-- Есть небольшой опыт работы с Vue 3 / VueX / Pinia
 
 ## Я открыт для общения
 ## Мой телеграм указан в профиле
